@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="200" viewBox="0 0 250 200">
+<defs>
+    <!-- <style>
+      .cls-1 {
+        stroke: #b0b0b0;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #e6e6e6;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style> -->
+  </defs>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" style="fill: #e6e6e6;" width="250" height="200"/>
+  <path id="Forma_1_copy_8" data-name="Forma 1 copy 8" class="cls-3" style="fill: #fff;fill-rule: evenodd;" d="M179.244,62.72l3.536,3.536,55.912-55.912-3.536-3.536ZM11.308,190.656l3.535,3.536L70.756,138.28l-3.536-3.536Z"/>
+  <path id="Forma_1_copy_9" data-name="Forma 1 copy 9" class="cls-3" style="fill: #fff;fill-rule: evenodd;" d="M182.78,134.744l-3.536,3.536,55.912,55.912,3.536-3.536ZM14.844,6.808l-3.535,3.536L67.22,66.256l3.536-3.536Z"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" style="fill: #fff;fill-rule: evenodd;"  d="M144,113.981V126c0,2.34-2.328,4.008-4.743,4.008H83.37a4.318,4.318,0,0,1-4.38-4.244V74.251a4.318,4.318,0,0,1,4.38-4.244h55.887c2.415,0,4.743,1.653,4.743,3.993V85.987M86.87,74.975a2.815,2.815,0,0,0-2.855,2.765v44.536A2.9,2.9,0,0,0,87,125h50c1.572,0,2-1.429,2-2.953V77.674c0-1.525-.67-2.7-2.243-2.7H86.87ZM144,114l25,16a1.975,1.975,0,0,0,2-2V72a1.821,1.821,0,0,0-2-2L144,86v6l21.958-14.3,0,44.607L144,108v6Z"/>
+</svg>
